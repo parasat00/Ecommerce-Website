@@ -15,3 +15,6 @@ env\Scripts\activate
 pip install -r requirements.txt 
 python manage.py runserver
 ```
+## Demonstration
+Below you can see how the project looks like
+![](demonstration/demo_1.gif)
